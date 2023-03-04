@@ -12,8 +12,8 @@ const newsInfo = document.getElementById("newsInfo")//should display news in the
 const relevancy= document.getElementById("relevancy");
 const popularity= document.getElementById("popularity");
 // api for news 
-const searchNews = "https://newsapi.org/v2/everything?apiKey=b7c4f75b5fe648d6b93d5d41fec58d44&q=";
-const api = "https://newsapi.org/v2/top-headlines?country=in&apiKey=b7c4f75b5fe648d6b93d5d41fec58d44&category=";
+const searchNews = "https://newsapi.org/v2/everything?apiKey={your_api_key}";
+const api = "https://newsapi.org/v2/top-headlines?country=in&apiKey={your_api_key}&category=";
 
 
 // display news
