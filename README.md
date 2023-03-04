@@ -1,10 +1,12 @@
 # NewsToday
 
-This is a web application that allows users to view and search for news articles from various categories such as Business, Entertainment, Health, Science, Sports, and Technology.
+This is a web application that allows you to read news from different categories such as business, sports, technology, entertainment, health, and science. The news is fetched from the News API (https://newsapi.org/).
 
 ## Getting Started
 
-To use this application, you can simply download the files or clone the repository to your local machine. Then, open the "index.html" file in your web browser to access the application.
+To get started with the application, simply open the index.html file in your web browser. The app will load and display the top headlines news by default. You can click on any of the category buttons to display the news related to that category.
+
+You can also search for news by entering your search query in the search bar and clicking the search button.
 
 ## Prerequisites
 
@@ -38,4 +40,6 @@ Keerthi sree
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
+News API - API used to fetch news data.
+
 This project was inspired by the need for a simple and easy-to-use news application.
